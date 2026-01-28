@@ -1,0 +1,225 @@
+{
+    "en-AU": {
+        "styles": {
+            "bg": "#F55D05",
+            "lang-select-color": "#222829",
+            "bg-light": "#fc9d65",
+            "welcome-bonus-bg": "#fca570",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#f3f4f1",
+            "text": "#000000",
+            "text-black": "#000000",
+            "table-head": "#F55D05",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#FFFFFF",
+            "yellow-button": "#EB7F44",
+            "button-text": "#000000",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#fdbd97",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#fdbd97",
+            "faq-label": "#F55D05",
+            "bg-footer": "#F55D05",
+            "copyright": "#e7e7d5",
+            "starColor": "#FFFFFF",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Neds",
+            "title": "Neds — Online Betting & Casino Australia | 100% Bonus",
+            "description": "Bet with Neds on racing, sports and casino games. Enjoy fast payouts, exclusive promotions and powerful betting tools. Sign up now for a 100% bonus!",
+            "canonical": "neds-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2210",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "neds-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2211",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2212"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2213",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Neds Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Australia's Ultimate Betting & Casino Experience",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2214",
+            "imageSizeModifier": 5,
+            "imageYModifier": -6,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2215",
+            "mobileImageSizeModifier": 4,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casinos",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Looking for Australia's most innovative betting platform? We combine cutting-edge racing tools, comprehensive sports markets, and exciting casino games with lightning-fast payouts. Here's why thousands choose us:",
+            "items": [
+                "Licensed Australian bookmaker with Same Game Multi and Same Race Multi betting",
+                "3000+ casino games plus live racing streams on thoroughbred, greyhound and harness",
+                "Instant withdrawals via Neds Card, PayPal, Apple Pay with secure Mastercard integration",
+                "Punters Toolbox with Bet Boost, Bet Back up to $500, and advanced form guides",
+                "24\/7 customer support with social betting features including Groups and Bet Sharing",
+                "Exclusive racing tools like Jump Off, Price Boost and Filter Form Guide for smart punting"
+            ],
+            "advantagesAfterText": "Join Australia's fastest-growing betting community with innovative features designed for serious punters. Our mobile-first platform delivers seamless betting across all devices with industry-leading speed.",
+            "knowMore": "Know more",
+            "appTitle": "Neds App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2216",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Neds App",
+            "mobileGooglePlayImageTitle": "Neds App",
+            "mobileIosImageTitle": "Neds App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Neds Australia",
+                "description1": "We've rapidly become one of Australia's most trusted online bookmakers since entering the market. Our commitment to innovation has earned us a reputation for offering the best betting experience through market-leading tools and promotions.",
+                "items": [
+                    "Launched revolutionary Same Race Multi feature across all racing codes",
+                    "Introduced Neds Card for instant access to winnings everywhere Mastercard accepted",
+                    "Expanded to offer 3000+ casino games from world-class providers",
+                    "Developed Punters Toolbox with exclusive betting protection tools"
+                ],
+                "description2": "We operate under strict Australian gambling regulations with certified fairness standards. Our platform uses advanced SSL encryption to protect your personal and financial data. All games are tested by independent auditors for random outcomes.\nWe continue expanding our racing markets, sports coverage, and casino offerings. Our dedication to responsible gambling through Punter Assist tools remains paramount. Experience why we're Australia's most innovative betting platform today.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2218",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Complete Guide to Neds Casino & Sports Betting",
+                "description": "<h2>Your Complete Betting & Gaming Destination<\/h2>\n\n<p>We pride ourselves on offering Australia's most comprehensive betting and gaming platform, combining traditional sports wagering with cutting-edge casino entertainment. Our platform features everything from thoroughbred racing and AFL betting to thousands of premium casino games from industry-leading providers. Whether you're a seasoned punter or new to online betting, we provide the tools, markets, and support you need to bet with confidence.<\/p>\n\n<h3>Premium Casino Gaming Collection<\/h3>\n\n<p>Our casino platform hosts over 3,000 premium games from the world's top software providers including NetEnt, Microgaming, Evolution Gaming, Pragmatic Play, and Play'n GO. We've carefully curated our collection to ensure every player finds their perfect game, whether you prefer classic slots, progressive jackpots, or immersive live dealer experiences. Our games are optimized for both desktop and mobile devices, delivering stunning graphics and smooth gameplay wherever you choose to play.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Slot machines:<\/strong> Featuring thousands of titles from classic fruit machines to modern video slots with bonus rounds, free spins, cascading reels, and innovative mechanics that keep gameplay exciting and rewarding.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive jackpots:<\/strong> Including Mega Moolah, Major Millions, and other network jackpots with prize pools regularly exceeding millions of dollars, giving you the chance to win life-changing amounts with a single spin.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Table games:<\/strong> Offering multiple variants of blackjack, roulette, baccarat, and poker with different betting limits to suit all bankrolls, from casual players to high rollers seeking premium gaming experiences.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live dealer casino:<\/strong> Streamed in HD from professional studios with real dealers hosting roulette, blackjack, baccarat, poker, and exciting game shows like Crazy Time, Monopoly Live, and Dream Catcher for authentic casino atmosphere.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Instant win games:<\/strong> Including scratch cards, keno, bingo, and specialty games providing quick entertainment with instant results and the potential for substantial payouts on minimal stakes.\n  <\/li>\n<\/ul>\n\n<h3>Comprehensive Sports Betting Markets<\/h3>\n\n<p>We offer Australia's most extensive sports betting coverage, with markets on over 50 different sports and thousands of events every week. Our sportsbook caters specifically to Australian punters with deep markets on AFL, NRL, cricket, and horse racing, while also providing comprehensive coverage of international sports including NBA, NFL, Premier League football, tennis, and much more. Our competitive odds and innovative features like Same Game Multi give you more ways to win.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Horse racing:<\/strong> Covering all Australian thoroughbred, greyhound, and harness racing with international coverage including UK, Ireland, Hong Kong, and South Africa, plus exclusive tools like Same Race Multi and Filter Form Guide.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>AFL and NRL:<\/strong> Australia's favorite football codes with extensive markets including head-to-head, line betting, totals, player props, first goalscorer, and innovative Same Game Multi for combining multiple selections in one bet.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cricket betting:<\/strong> Comprehensive coverage of Test matches, ODIs, T20 internationals, Big Bash League, IPL, and county cricket with markets on match winners, top batsman, bowler, totals, and in-play betting options.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International sports:<\/strong> Including NBA, NFL, MLB, NHL, Premier League, Champions League, tennis Grand Slams, golf majors, UFC, boxing, motorsports, and esports with competitive odds and extensive market depth.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Novelty markets:<\/strong> Bet on entertainment events, politics, reality TV shows, awards ceremonies, and special events providing unique betting opportunities beyond traditional sports and racing.\n  <\/li>\n<\/ul>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #333333;\">\n  <thead>\n    <tr style=\"background-color: #ff7900;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #ffffff;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #f4f4f4;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #ffffff;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #f4f4f4;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #ffffff;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Live Casino<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$15,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #f4f4f4;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Racing<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$100,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #ffffff;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Sports<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$50,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #f4f4f4;\">\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #eeeeee; padding: 8px;\">$200<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Innovative Betting Tools & Features<\/h3>\n\n<p>We've developed Australia's most comprehensive suite of betting tools designed to give you more control, value, and protection. Our Punters Toolbox includes exclusive features you won't find anywhere else, helping you bet smarter and maximize your winning potential. From risk mitigation to odds enhancement, our tools put you in command of your betting experience with features that adapt to your individual playing style and preferences.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Same Game Multi:<\/strong> Build customized multi bets by combining different markets from the same sporting event, with enhanced odds that increase with each additional selection you add to your betting slip across dozens of sports.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Same Race Multi:<\/strong> Select 2-4 runners to finish in the top four positions in the same race across thoroughbred, greyhound, and harness codes, with bigger odds for more selections and available worldwide.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bet Boost:<\/strong> Activate to increase your potential winnings at no extra cost, available daily on selected markets with the ability to deactivate through account settings whenever you prefer standard odds instead.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bet Back:<\/strong> Unlike standard bonus bet refunds, we return your actual stake as real money up to $500 on qualifying bets, giving you genuine second chances without wagering requirements or restrictions.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Jump Off:<\/strong> Cancel single or fixed odds bets on Australian thoroughbred races after the race has started but before it's concluded, providing unprecedented control and flexibility over your racing wagers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bet Tracker:<\/strong> Monitor your multi and Same Game Multi bets in real-time as the action unfolds, with live updates showing how each leg is performing across NBA, NRL, AFL, and other major sports.\n  <\/li>\n<\/ul>\n\n<h3>Live Dealer Gaming Experience<\/h3>\n\n<p>Our live casino brings the authentic atmosphere of a real casino directly to your screen with professional dealers, HD streaming, and interactive features. Powered by Evolution Gaming and Pragmatic Play Live, our live dealer platform operates 24\/7 from state-of-the-art studios with multiple camera angles, live chat functionality, and betting interfaces optimized for seamless gameplay. Experience the social interaction and excitement of land-based casinos combined with the convenience of playing from home.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live roulette tables:<\/strong> Including European, American, French, Lightning, Immersive, and Speed variants with betting limits from $0.50 to $15,000 catering to all player types from beginners to VIP high rollers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack games:<\/strong> Featuring classic, unlimited seats, VIP, First Person, and Speed Blackjack with side bets including Perfect Pairs, 21+3, and Bet Behind for additional winning opportunities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat variants:<\/strong> Offering standard, Speed, Lightning, and VIP Baccarat with squeeze feature for authentic gameplay, Dragon Bonus side bets, and dedicated tables for various betting preferences and strategies.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live poker rooms:<\/strong> Including Three Card Poker, Caribbean Stud, Texas Hold'em Bonus, Ultimate Texas Hold'em, and Casino Hold'em with progressive jackpots and professional dealers managing authentic gameplay.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game show experiences:<\/strong> Featuring Crazy Time, Monopoly Live, Dream Catcher, Deal or No Deal, Mega Ball, and Gonzo's Treasure Hunt combining entertainment, big win potential, and interactive bonus rounds.\n  <\/li>\n<\/ul>\n\n<h3>Mobile Betting Excellence<\/h3>\n\n<p>Our award-winning mobile platform delivers Australia's best betting experience on smartphones and tablets. Available through our optimized mobile website or dedicated iOS and Android apps, we provide seamless functionality with faster loading times, push notifications for race starts and results, touch-optimized betting slips, and biometric login for enhanced security. Our mobile-first design philosophy ensures every feature works flawlessly regardless of your device or screen size.<\/p>\n\n<p>The apps include exclusive features like dynamically updating odds, enhanced multi builders, quick deposit options including Apple Pay and Google Pay, one-tap bet placement, and integrated live streaming of racing events. Download from the App Store or Google Play to experience betting designed specifically for mobile devices, with intuitive navigation that puts thousands of markets literally at your fingertips wherever you go.<\/p>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Secure Banking, Promotions & Player Protection",
+                "description": "<h2>Comprehensive Banking & Security<\/h2>\n\n<p>We provide Australia's most flexible and secure banking options, ensuring you can deposit and withdraw funds quickly, safely, and conveniently. Our payment infrastructure supports traditional methods alongside cutting-edge digital solutions, with industry-leading processing speeds that get your winnings to you faster than any competitor. All transactions are protected by 256-bit SSL encryption, the same technology used by major financial institutions worldwide to safeguard sensitive data.<\/p>\n\n<h3>Deposit Methods & Processing<\/h3>\n\n<p>We accept a comprehensive range of deposit methods designed to suit every player's preferences and needs. Our instant deposit processing means your funds are available immediately, allowing you to start betting or playing casino games without frustrating delays. We never charge fees for deposits, ensuring every dollar you add to your account is available for wagering rather than being consumed by transaction costs that reduce your bankroll unnecessarily.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Debit and credit cards:<\/strong> Visa and Mastercard accepted with instant processing, secure tokenization protecting your card details, and the ability to save cards for future one-click deposits without re-entering payment information.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Digital wallets:<\/strong> PayPal, Apple Pay, and Google Pay supported for lightning-fast deposits with enhanced security through biometric authentication and without sharing banking details directly with our platform.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank transfers:<\/strong> Direct transfers from your Australian bank account with secure processing through encrypted channels, ideal for larger deposits with no maximum limits for high rollers and serious punters.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>POLi payments:<\/strong> Instant bank transfers without registration, allowing you to deposit directly from your online banking interface with immediate availability and no third-party account requirements or signup processes.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>BPay deposits:<\/strong> Traditional Australian payment method for those who prefer established banking systems, processed within 1-2 business days and ideal for customers comfortable with conventional transfer methods.\n  <\/li>\n<\/ul>\n\n<h3>Withdrawal Options & Speed<\/h3>\n\n<p>We pride ourselves on offering Australia's fastest withdrawal processing, with most requests approved and processed within hours rather than days. Our revolutionary Neds Card provides instant access to your winnings, functioning as a prepaid Mastercard that can be used for purchases anywhere Mastercard is accepted, both online and in physical stores. This innovation eliminates waiting periods entirely, putting your money at your disposal immediately after you cash out.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Neds Card:<\/strong> Our exclusive prepaid Mastercard provides instant access to winnings with the ability to withdraw cash from ATMs, make online purchases, or use for in-store transactions worldwide wherever Mastercard accepted.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank transfer:<\/strong> Direct transfers to your nominated Australian bank account processed same-day for requests made before cut-off times, with funds typically appearing within 24 hours on business days.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>PayPal withdrawals:<\/strong> Lightning-fast transfers to your PayPal account with processing completed within hours, allowing you to access funds through your digital wallet for online shopping or further transfers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cheque payments:<\/strong> Available upon request for customers preferring traditional methods, though processing takes 7-10 business days due to postal delivery requirements and bank clearing procedures.\n  <\/li>\n<\/ul>\n\n<h3>Exclusive Promotions & Bonuses<\/h3>\n\n<p>We offer Australia's most generous and innovative promotions designed to maximize your betting value and extend your playing time. Unlike competitors who burden players with impossible wagering requirements, our promotions feature fair terms, achievable conditions, and real value that genuinely enhances your betting experience. From welcome offers to ongoing rewards, we ensure every promotion delivers tangible benefits rather than empty marketing promises that disappoint.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Welcome bonus:<\/strong> New customers receive a generous matched deposit bonus up to $500 plus additional bonus bets, providing substantial extra funds to explore our platform and discover your favorite betting markets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Daily promotions:<\/strong> Fresh offers every day including odds boosts on featured events, cashback specials, enhanced place terms on racing, multi insurance, and risk-free bets giving you more value consistently.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loyalty rewards:<\/strong> Earn points on every bet placed which accumulate toward exclusive benefits including bonus bets, enhanced odds, VIP events, priority customer support, and special promotions unavailable to standard members.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Racing specials:<\/strong> Enhanced odds on selected races, Best Tote Plus SP guarantees, top three finish refunds, jockey and trainer multi bonuses, and exclusive promotions for major carnivals and feature race days.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Sports bonuses:<\/strong> Boosted odds on major events, Same Game Multi insurance, accumulator bonuses, early payout offers, and special promotions for AFL, NRL, NBA, NFL, and international football tournaments.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Casino offers:<\/strong> Free spins on featured slots, cashback on losses, deposit match bonuses, and exclusive access to new game releases with bonus rounds providing additional winning opportunities beyond standard gameplay.\n  <\/li>\n<\/ul>\n\n<h3>Responsible Gambling Commitment<\/h3>\n\n<p>We take responsible gambling seriously, providing comprehensive tools and support to help you maintain control over your betting activities. Our Punter Assist suite includes industry-leading features that empower you to set limits, monitor behavior, and take breaks when needed. We believe gambling should be entertaining and enjoyable, never causing financial stress or personal problems that negatively impact your wellbeing or relationships with family and friends.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Block Out:<\/strong> Temporarily suspend your account for a period you choose, from 24 hours to permanent self-exclusion, preventing all access to betting and gaming activities during the cooling-off period you specify.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Curfew settings:<\/strong> Set times when your account is automatically restricted, such as overnight hours or work periods, helping you maintain healthy boundaries between gambling and other life responsibilities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Daily deposit limits:<\/strong> Control how much you can deposit each day, week, or month, ensuring you never wager more than your predetermined budget allows and protecting against impulsive overspending.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Market control:<\/strong> Restrict access to specific betting markets or product types if you find certain categories problematic, allowing you to continue enjoying responsible wagering while avoiding temptation areas.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Check In feature:<\/strong> Receive regular prompts reviewing your account activity, gambling duration, and spending patterns, helping you maintain awareness of your betting behavior and make informed decisions about continuing.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Support resources:<\/strong> Direct links to Gambling Help Online, Lifeline, Beyond Blue, and other professional support services providing confidential counseling and assistance for problem gambling concerns.\n  <\/li>\n<\/ul>\n\n<h3>Customer Support Excellence<\/h3>\n\n<p>Our award-winning customer support team operates 24\/7 to assist with any questions, concerns, or technical issues you encounter. We pride ourselves on rapid response times, knowledgeable staff who genuinely understand betting and gaming, and commitment to resolving issues quickly and fairly. Whether you need help with deposits, withdrawals, account verification, betting rules, or technical problems, our team is always ready to provide professional assistance that exceeds your expectations.<\/p>\n\n<p>Contact us through multiple channels including live chat for instant responses, email support for detailed inquiries, telephone hotline at 1300 006 337 for direct conversation, and comprehensive FAQ section covering common questions. Our support team undergoes extensive training on all platform features, betting products, and regulatory requirements, ensuring you receive accurate information and effective solutions every time you reach out for assistance.<\/p>\n\n<h3>Security & Fair Gaming<\/h3>\n\n<p>We operate under strict Australian gambling regulations and maintain licenses from recognized authorities ensuring compliance with all legal requirements. Our platform employs military-grade SSL encryption protecting all data transmissions between your device and our servers. Personal information, financial details, and betting history remain completely confidential and are never shared with third parties except as required by law or necessary for payment processing.<\/p>\n\n<p>All casino games use certified Random Number Generators tested by independent auditors including eCOGRA and iTech Labs, guaranteeing fair outcomes that cannot be manipulated. Our sports odds are set by experienced traders using sophisticated algorithms and market data, with betting rules clearly published and consistently applied. We maintain segregated client accounts ensuring your funds remain protected even in the unlikely event of business difficulties, giving you complete peace of mind when betting with us.<\/p>\n\n<h3>Getting Started Is Easy<\/h3>\n\n<p>Creating your account takes less than 60 seconds with our streamlined registration process requiring only basic information to get started immediately. Verify your identity by uploading standard documents like driver's license or passport, a process typically approved within hours during business days. Make your first deposit using any of our supported payment methods, claim your welcome bonus, and start exploring thousands of betting markets and casino games right away.<\/p>\n\n<p>Our intuitive platform design means you'll feel comfortable navigating immediately, even if you're new to online betting. Browse sports by category, search for specific events, build multis with our easy-to-use bet slip, and access your account history anytime to track performance. If you ever need guidance, our tutorial videos, comprehensive help center, and friendly support team ensure you never feel lost or confused while using our platform.<\/p>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How do I claim my welcome bonus at Neds?",
+                    "answer": "To claim your welcome bonus, simply create a new account and make your first deposit of at least $20. Your bonus will be automatically credited to your account within minutes. Standard wagering requirements apply to bonus funds. Contact our 24\/7 support team via live chat if you need any assistance with the bonus activation process."
+                },
+                {
+                    "title": "What payment methods are available for deposits and withdrawals?",
+                    "answer": "We accept Visa, Mastercard, PayPal, Apple Pay, Google Pay, bank transfers, POLi, and BPay for deposits. Withdrawals can be made via the Neds Card, bank transfer, PayPal, or cheque. Most deposits are instant, while withdrawals via Neds Card are immediate. Bank transfers typically process within 24 hours on business days."
+                },
+                {
+                    "title": "Is betting with Neds safe and secure?",
+                    "answer": "Yes, we operate under strict Australian gambling regulations and use 256-bit SSL encryption to protect all your data. Our platform is licensed and regularly audited for compliance. All casino games use certified Random Number Generators tested by independent agencies. Your funds are held in segregated accounts for maximum protection."
+                },
+                {
+                    "title": "Can I bet on my mobile phone or tablet?",
+                    "answer": "Absolutely! We offer dedicated iOS and Android apps available from the App Store and Google Play, plus a fully optimized mobile website. Our mobile platform includes all features available on desktop including Same Game Multi, Bet Tracker, live streaming, and instant deposits. Download the app today for the best mobile betting experience in Australia."
+                },
+                {
+                    "title": "What is the Neds Card and how does it work?",
+                    "answer": "The Neds Card is an exclusive prepaid Mastercard that gives you instant access to your winnings. Request the card through your account, and once received, you can withdraw funds directly to it immediately. Use it anywhere Mastercard is accepted for purchases, online shopping, or ATM withdrawals. There's no waiting period for your money."
+                },
+                {
+                    "title": "How do Same Game Multi and Same Race Multi work?",
+                    "answer": "Same Game Multi lets you combine multiple markets from one sporting event into a single bet with enhanced odds. Same Race Multi allows you to select 2-4 runners to finish in the top four positions in one race. Both features increase your potential payout significantly. Simply select your markets or runners, and our system automatically calculates enhanced odds."
+                },
+                {
+                    "title": "What responsible gambling tools does Neds offer?",
+                    "answer": "Our Punter Assist tools include Block Out for account suspension, Curfew to restrict betting during specific hours, Daily Deposit Limits, Market Control to block certain products, and Check In for activity reviews. You can set these limits in your account settings. We also provide links to professional support services including Gambling Help Online."
+                },
+                {
+                    "title": "How long does account verification take?",
+                    "answer": "Account verification typically takes a few hours during business days, though it can occasionally take up to 24 hours during peak periods. Simply upload a photo of your driver's license or passport plus proof of address through your account dashboard. Our team reviews documents quickly and will contact you if any additional information is required for approval."
+                },
+                {
+                    "title": "Are there any fees for deposits or withdrawals?",
+                    "answer": "We never charge fees for deposits or withdrawals to customer accounts. However, your bank or payment provider may impose their own transaction fees depending on the method you choose. Check with your financial institution if you're unsure about potential charges. Most Australian banks don't charge fees for standard domestic transfers or card payments."
+                },
+                {
+                    "title": "Can I watch live racing on the Neds platform?",
+                    "answer": "Yes! We offer free live streaming of Australian thoroughbred, greyhound, and harness racing directly through our website and mobile apps. International racing coverage is also available for selected meetings. Simply log into your account and navigate to the race you want to watch. No additional subscription or fees required for this service."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2219",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Neds"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-AU",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
